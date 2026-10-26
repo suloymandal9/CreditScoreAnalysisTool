@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
  * Provides business logic related to credit scores, handling interactions with persistence, caching, and messaging systems.
  */
 @Service
-public class CreditScoreService {
+public class  CreditScoreService {
 
     @Autowired
     private CreditScoreRepository creditScoreRepository;
